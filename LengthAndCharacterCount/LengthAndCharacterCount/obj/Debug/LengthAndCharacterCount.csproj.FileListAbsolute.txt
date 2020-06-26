@@ -1,0 +1,10 @@
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\obj\Debug\LengthAndCharacterCount.csprojAssemblyReference.cache
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\obj\Debug\LengthAndCharacterCount.Form1.resources
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\obj\Debug\LengthAndCharacterCount.Properties.Resources.resources
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\obj\Debug\LengthAndCharacterCount.csproj.GenerateResource.cache
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\obj\Debug\LengthAndCharacterCount.csproj.CoreCompileInputs.cache
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\bin\Debug\LengthAndCharacterCount.exe.config
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\bin\Debug\LengthAndCharacterCount.exe
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\bin\Debug\LengthAndCharacterCount.pdb
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\obj\Debug\LengthAndCharacterCount.exe
+C:\Users\NASA\source\repos\LengthAndCharacterCount\LengthAndCharacterCount\obj\Debug\LengthAndCharacterCount.pdb
